@@ -1,0 +1,729 @@
+{
+  "TimeUTC": "Mon May 19 18:30:17 2025",
+  "Timestamp": 1747679417,
+  "TimezoneOffset": -120,
+  "Device": {
+    "Id": 6,
+    "AddressMode": 0,
+    "PrimaryAddress": 0,
+    "ManufacturerId": "EMU",
+    "Serial": "25012435",
+    "Version": 25,
+    "Medium": "Electricity",
+    "Active": -1,
+    "ReadoutCycle": 0,
+    "BaudRate": 2400,
+    "BACNetDevInstNumber": 0,
+    "Name": "EMU Professional v25 24val",
+    "Site": "MySite",
+    "CostUnit": "MyCostUnit",
+    "CommentStr": "",
+    "LoggerLastReadout": 1747679417,
+    "LoggerReadoutState": 1,
+    "LoggerReadoutCycle": 900,
+    "MediumGroup": 1,
+    "Battery": false,
+    "DeviceType": 0,
+    "BACNetDataBaseRevision": 0,
+    "AppResetSubCode": 0,
+    "ErrorFlags": 0,
+    "ValueDescs": [
+      {
+        "Id": 348,
+        "DeviceId": 18,
+        "Position": 0,
+        "DescriptionStr": "Energy",
+        "UnitStr": "Wh",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 1,
+        "Active": -1,
+        "LoggerLastValue": 12083.0,
+        "CfgDescription": 3,
+        "CfgUnit": 2,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 348,
+            "Timestamp": 1747679417,
+            "Val": 12083.0
+          }
+        ]
+      },
+      {
+        "Id": 349,
+        "DeviceId": 18,
+        "Position": 1,
+        "DescriptionStr": "Energy",
+        "UnitStr": "Wh",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 2,
+        "Active": -1,
+        "LoggerLastValue": 1396.0,
+        "CfgDescription": 3,
+        "CfgUnit": 2,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 349,
+            "Timestamp": 1747679417,
+            "Val": 1396.0
+          }
+        ]
+      },
+      {
+        "Id": 350,
+        "DeviceId": 18,
+        "Position": 2,
+        "DescriptionStr": "Energy",
+        "UnitStr": "Wh",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 1,
+        "Active": -1,
+        "LoggerLastValue": 285.0,
+        "CfgDescription": 5,
+        "CfgUnit": 2,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 350,
+            "Timestamp": 1747679417,
+            "Val": 285.0
+          }
+        ]
+      },
+      {
+        "Id": 351,
+        "DeviceId": 18,
+        "Position": 3,
+        "DescriptionStr": "Energy",
+        "UnitStr": "Wh",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 2,
+        "Active": -1,
+        "LoggerLastValue": 495.0,
+        "CfgDescription": 5,
+        "CfgUnit": 2,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 351,
+            "Timestamp": 1747679417,
+            "Val": 495.0
+          }
+        ]
+      },
+      {
+        "Id": 352,
+        "DeviceId": 18,
+        "Position": 4,
+        "DescriptionStr": "Energy",
+        "UnitStr": "Wh",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 1,
+        "Active": -1,
+        "LoggerLastValue": 12342.0,
+        "CfgDescription": 8,
+        "CfgUnit": 2,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 352,
+            "Timestamp": 1747679417,
+            "Val": 12342.0
+          }
+        ]
+      },
+      {
+        "Id": 353,
+        "DeviceId": 18,
+        "Position": 5,
+        "DescriptionStr": "Energy",
+        "UnitStr": "Wh",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 2,
+        "Active": -1,
+        "LoggerLastValue": 1917.0,
+        "CfgDescription": 8,
+        "CfgUnit": 2,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 353,
+            "Timestamp": 1747679417,
+            "Val": 1917.0
+          }
+        ]
+      },
+      {
+        "Id": 354,
+        "DeviceId": 18,
+        "Position": 6,
+        "DescriptionStr": "Energy",
+        "UnitStr": "Wh",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 1,
+        "Active": -1,
+        "LoggerLastValue": 276.0,
+        "CfgDescription": 9,
+        "CfgUnit": 2,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 354,
+            "Timestamp": 1747679417,
+            "Val": 276.0
+          }
+        ]
+      },
+      {
+        "Id": 355,
+        "DeviceId": 18,
+        "Position": 7,
+        "DescriptionStr": "Energy",
+        "UnitStr": "Wh",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 2,
+        "Active": -1,
+        "LoggerLastValue": 403.0,
+        "CfgDescription": 9,
+        "CfgUnit": 2,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 355,
+            "Timestamp": 1747679417,
+            "Val": 403.0
+          }
+        ]
+      },
+      {
+        "Id": 356,
+        "DeviceId": 18,
+        "Position": 8,
+        "DescriptionStr": "Power",
+        "UnitStr": "W",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 0.0,
+        "CfgDescription": 25,
+        "CfgUnit": 14,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 356,
+            "Timestamp": 1747679417,
+            "Val": 0.0
+          }
+        ]
+      },
+      {
+        "Id": 357,
+        "DeviceId": 18,
+        "Position": 9,
+        "DescriptionStr": "Power (vendor specific)",
+        "UnitStr": "W",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 0.0,
+        "CfgDescription": 25,
+        "CfgUnit": 14,
+        "CfgPhase": 1,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 357,
+            "Timestamp": 1747679417,
+            "Val": 0.0
+          }
+        ]
+      },
+      {
+        "Id": 358,
+        "DeviceId": 18,
+        "Position": 10,
+        "DescriptionStr": "Power (vendor specific)",
+        "UnitStr": "W",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 0.0,
+        "CfgDescription": 25,
+        "CfgUnit": 14,
+        "CfgPhase": 2,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 358,
+            "Timestamp": 1747679417,
+            "Val": 0.0
+          }
+        ]
+      },
+      {
+        "Id": 359,
+        "DeviceId": 18,
+        "Position": 11,
+        "DescriptionStr": "Power (vendor specific)",
+        "UnitStr": "W",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 0.0,
+        "CfgDescription": 25,
+        "CfgUnit": 14,
+        "CfgPhase": 3,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 359,
+            "Timestamp": 1747679417,
+            "Val": 0.0
+          }
+        ]
+      },
+      {
+        "Id": 360,
+        "DeviceId": 18,
+        "Position": 12,
+        "DescriptionStr": "Ampere",
+        "UnitStr": "A",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 0.001,
+        "CfgDescription": 31,
+        "CfgUnit": 29,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 360,
+            "Timestamp": 1747679417,
+            "Val": 0.001
+          }
+        ]
+      },
+      {
+        "Id": 361,
+        "DeviceId": 18,
+        "Position": 13,
+        "DescriptionStr": "Ampere (vendor specific)",
+        "UnitStr": "A",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 0.001,
+        "CfgDescription": 31,
+        "CfgUnit": 29,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 361,
+            "Timestamp": 1747679417,
+            "Val": 0.001
+          }
+        ]
+      },
+      {
+        "Id": 362,
+        "DeviceId": 18,
+        "Position": 14,
+        "DescriptionStr": "Ampere (vendor specific)",
+        "UnitStr": "A",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 0.0,
+        "CfgDescription": 31,
+        "CfgUnit": 29,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 362,
+            "Timestamp": 1747679417,
+            "Val": 0.0
+          }
+        ]
+      },
+      {
+        "Id": 363,
+        "DeviceId": 18,
+        "Position": 15,
+        "DescriptionStr": "Ampere (vendor specific)",
+        "UnitStr": "A",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 0.0,
+        "CfgDescription": 31,
+        "CfgUnit": 29,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 363,
+            "Timestamp": 1747679417,
+            "Val": 0.0
+          }
+        ]
+      },
+      {
+        "Id": 364,
+        "DeviceId": 18,
+        "Position": 16,
+        "DescriptionStr": "Volts (vendor specific)",
+        "UnitStr": "V",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 232.0,
+        "CfgDescription": 28,
+        "CfgUnit": 26,
+        "CfgPhase": 1,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 364,
+            "Timestamp": 1747679417,
+            "Val": 232.0
+          }
+        ]
+      },
+      {
+        "Id": 365,
+        "DeviceId": 18,
+        "Position": 17,
+        "DescriptionStr": "Volts (vendor specific)",
+        "UnitStr": "V",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 233.4,
+        "CfgDescription": 28,
+        "CfgUnit": 26,
+        "CfgPhase": 2,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 365,
+            "Timestamp": 1747679417,
+            "Val": 233.4
+          }
+        ]
+      },
+      {
+        "Id": 366,
+        "DeviceId": 18,
+        "Position": 18,
+        "DescriptionStr": "Volts (vendor specific)",
+        "UnitStr": "V",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 234.5,
+        "CfgDescription": 28,
+        "CfgUnit": 26,
+        "CfgPhase": 3,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 366,
+            "Timestamp": 1747679417,
+            "Val": 234.5
+          }
+        ]
+      },
+      {
+        "Id": 367,
+        "DeviceId": 18,
+        "Position": 19,
+        "DescriptionStr": "Special supplier information",
+        "UnitStr": "None",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": -79.0,
+        "CfgDescription": 32,
+        "CfgUnit": 31,
+        "CfgPhase": 1,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 367,
+            "Timestamp": 1747679417,
+            "Val": -79.0
+          }
+        ]
+      },
+      {
+        "Id": 368,
+        "DeviceId": 18,
+        "Position": 20,
+        "DescriptionStr": "Special supplier information",
+        "UnitStr": "None",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 32.0,
+        "CfgDescription": 32,
+        "CfgUnit": 31,
+        "CfgPhase": 2,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 368,
+            "Timestamp": 1747679417,
+            "Val": 32.0
+          }
+        ]
+      },
+      {
+        "Id": 369,
+        "DeviceId": 18,
+        "Position": 21,
+        "DescriptionStr": "Special supplier information",
+        "UnitStr": "None",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": -81.0,
+        "CfgDescription": 32,
+        "CfgUnit": 31,
+        "CfgPhase": 3,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 369,
+            "Timestamp": 1747679417,
+            "Val": -81.0
+          }
+        ]
+      },
+      {
+        "Id": 370,
+        "DeviceId": 18,
+        "Position": 22,
+        "DescriptionStr": "Special supplier information",
+        "UnitStr": "None",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 499.0,
+        "CfgDescription": 33,
+        "CfgUnit": 32,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 370,
+            "Timestamp": 1747679417,
+            "Val": 499.0
+          }
+        ]
+      },
+      {
+        "Id": 371,
+        "DeviceId": 18,
+        "Position": 23,
+        "DescriptionStr": "Reset counter",
+        "UnitStr": "None",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 2.0,
+        "CfgDescription": 34,
+        "CfgUnit": 0,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 371,
+            "Timestamp": 1747679417,
+            "Val": 2.0
+          }
+        ]
+      }
+    ]
+  }
+}

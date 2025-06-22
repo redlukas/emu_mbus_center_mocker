@@ -1,0 +1,9 @@
+services:
+  mocker:
+    container_name: "emu_mbus_mocker"
+    image: "mocker:latest"
+    build:
+      context: "."
+    ports:
+      - "80:5000"
+

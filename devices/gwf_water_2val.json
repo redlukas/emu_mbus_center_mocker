@@ -1,0 +1,91 @@
+{
+  "TimeUTC": "Sat Jun 21 20:36:07 2025",
+  "Timestamp": 1750538167,
+  "TimezoneOffset": -120,
+  "Device": {
+    "Id": 7,
+    "AddressMode": 1,
+    "PrimaryAddress": 1,
+    "ManufacturerId": "GWF",
+    "Serial": "24530312",
+    "Version": 60,
+    "Medium": "Water",
+    "Active": -1,
+    "ReadoutCycle": 0,
+    "BaudRate": 2400,
+    "BACNetDevInstNumber": 0,
+    "Name": "GWF Water 2val",
+    "Site": "MySite",
+    "CostUnit": "MyCostUnit",
+    "CommentStr": "",
+    "LoggerLastReadout": 1750538167,
+    "LoggerReadoutState": 1,
+    "LoggerReadoutCycle": 60,
+    "MediumGroup": 2,
+    "Battery": false,
+    "DeviceType": 0,
+    "BACNetDataBaseRevision": 0,
+    "AppResetSubCode": 0,
+    "ErrorFlags": 0,
+    "ValueDescs": [
+      {
+        "Id": 177,
+        "DeviceId": 18,
+        "Position": 0,
+        "DescriptionStr": "Fabrication",
+        "UnitStr": "None",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 24530312.0,
+        "CfgDescription": 0,
+        "CfgUnit": 0,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 177,
+            "Timestamp": 1750538167,
+            "Val": 24530312.0
+          }
+        ]
+      },
+      {
+        "Id": 178,
+        "DeviceId": 18,
+        "Position": 1,
+        "DescriptionStr": "Volume",
+        "UnitStr": "m^3",
+        "ScalePower": 0,
+        "ScaleMantissa": 0,
+        "EncodeType": 0,
+        "ValueType": 0,
+        "StorageNum": 0,
+        "Tariff": 0,
+        "Active": -1,
+        "LoggerLastValue": 163.111,
+        "CfgDescription": 0,
+        "CfgUnit": 50,
+        "CfgPhase": 0,
+        "CfgFactor": 0.0,
+        "CfgStorageNum": 0,
+        "CfgTariff": 0,
+        "CfgObisCode": "",
+        "Values": [
+          {
+            "Id": 178,
+            "Timestamp": 1750538167,
+            "Val": 163.111
+          }
+        ]
+      }
+    ]
+  }
+}
