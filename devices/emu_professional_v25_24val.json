@@ -30,7 +30,7 @@
     "ValueDescs": [
       {
         "Id": 348,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 0,
         "DescriptionStr": "Energy",
         "UnitStr": "Wh",
@@ -59,7 +59,7 @@
       },
       {
         "Id": 349,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 1,
         "DescriptionStr": "Energy",
         "UnitStr": "Wh",
@@ -88,7 +88,7 @@
       },
       {
         "Id": 350,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 2,
         "DescriptionStr": "Energy",
         "UnitStr": "Wh",
@@ -117,7 +117,7 @@
       },
       {
         "Id": 351,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 3,
         "DescriptionStr": "Energy",
         "UnitStr": "Wh",
@@ -146,7 +146,7 @@
       },
       {
         "Id": 352,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 4,
         "DescriptionStr": "Energy",
         "UnitStr": "Wh",
@@ -175,7 +175,7 @@
       },
       {
         "Id": 353,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 5,
         "DescriptionStr": "Energy",
         "UnitStr": "Wh",
@@ -204,7 +204,7 @@
       },
       {
         "Id": 354,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 6,
         "DescriptionStr": "Energy",
         "UnitStr": "Wh",
@@ -233,7 +233,7 @@
       },
       {
         "Id": 355,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 7,
         "DescriptionStr": "Energy",
         "UnitStr": "Wh",
@@ -262,7 +262,7 @@
       },
       {
         "Id": 356,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 8,
         "DescriptionStr": "Power",
         "UnitStr": "W",
@@ -291,7 +291,7 @@
       },
       {
         "Id": 357,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 9,
         "DescriptionStr": "Power (vendor specific)",
         "UnitStr": "W",
@@ -320,7 +320,7 @@
       },
       {
         "Id": 358,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 10,
         "DescriptionStr": "Power (vendor specific)",
         "UnitStr": "W",
@@ -349,7 +349,7 @@
       },
       {
         "Id": 359,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 11,
         "DescriptionStr": "Power (vendor specific)",
         "UnitStr": "W",
@@ -378,7 +378,7 @@
       },
       {
         "Id": 360,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 12,
         "DescriptionStr": "Ampere",
         "UnitStr": "A",
@@ -407,7 +407,7 @@
       },
       {
         "Id": 361,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 13,
         "DescriptionStr": "Ampere (vendor specific)",
         "UnitStr": "A",
@@ -436,7 +436,7 @@
       },
       {
         "Id": 362,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 14,
         "DescriptionStr": "Ampere (vendor specific)",
         "UnitStr": "A",
@@ -465,7 +465,7 @@
       },
       {
         "Id": 363,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 15,
         "DescriptionStr": "Ampere (vendor specific)",
         "UnitStr": "A",
@@ -494,7 +494,7 @@
       },
       {
         "Id": 364,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 16,
         "DescriptionStr": "Volts (vendor specific)",
         "UnitStr": "V",
@@ -523,7 +523,7 @@
       },
       {
         "Id": 365,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 17,
         "DescriptionStr": "Volts (vendor specific)",
         "UnitStr": "V",
@@ -552,7 +552,7 @@
       },
       {
         "Id": 366,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 18,
         "DescriptionStr": "Volts (vendor specific)",
         "UnitStr": "V",
@@ -581,7 +581,7 @@
       },
       {
         "Id": 367,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 19,
         "DescriptionStr": "Special supplier information",
         "UnitStr": "None",
@@ -610,7 +610,7 @@
       },
       {
         "Id": 368,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 20,
         "DescriptionStr": "Special supplier information",
         "UnitStr": "None",
@@ -639,7 +639,7 @@
       },
       {
         "Id": 369,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 21,
         "DescriptionStr": "Special supplier information",
         "UnitStr": "None",
@@ -668,7 +668,7 @@
       },
       {
         "Id": 370,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 22,
         "DescriptionStr": "Special supplier information",
         "UnitStr": "None",
@@ -697,7 +697,7 @@
       },
       {
         "Id": 371,
-        "DeviceId": 18,
+        "DeviceId": 6,
         "Position": 23,
         "DescriptionStr": "Reset counter",
         "UnitStr": "None",

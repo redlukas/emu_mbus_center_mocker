@@ -24,3 +24,4 @@ Whenever we want to add a new sensor to the integration, it should also be added
    2. set `Device.Name` to the pretty name of the sensor
    3. set `Device.Site` to "MySite"
    4. set `Device.CostUnit` to "MyCostUnit"
+   5. set `Device.ValueDescs[x].DeviceId` to id from `VALID_IDS`

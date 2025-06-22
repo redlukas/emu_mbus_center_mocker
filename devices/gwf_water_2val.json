@@ -30,7 +30,7 @@
     "ValueDescs": [
       {
         "Id": 177,
-        "DeviceId": 18,
+        "DeviceId": 7,
         "Position": 0,
         "DescriptionStr": "Fabrication",
         "UnitStr": "None",
@@ -59,7 +59,7 @@
       },
       {
         "Id": 178,
-        "DeviceId": 18,
+        "DeviceId": 7,
         "Position": 1,
         "DescriptionStr": "Volume",
         "UnitStr": "m^3",
