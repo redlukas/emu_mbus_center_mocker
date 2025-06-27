@@ -13,7 +13,7 @@ VALID_IDS = {
 
 class CustomHandler(http.server.BaseHTTPRequestHandler):
     def do_GET(self):
-        print(f"path is: {self.path}")
+        print(f"request path is: {self.path}")
         if self.path == "/":
             html_content = "<p>emu_logo_128px</p>"
             encoded = html_content.encode('utf-8')
@@ -22,7 +22,7 @@ class CustomHandler(http.server.BaseHTTPRequestHandler):
             self.send_header("Content-Length", str(len(encoded)))
             self.end_headers()
             self.wfile.write(encoded)
-        if self.path.startswith("/app/api/id/"):
+        elif self.path.startswith("/app/api/id/"):
             try:
                 number = int(self.path.split("/")[-1].replace(".json", ""))
                 print(f"accessing id {number}")
@@ -47,10 +47,15 @@ class CustomHandler(http.server.BaseHTTPRequestHandler):
             except Exception as e:
                 print("Generic exception", e)
                 pass
+        else:
+            html_content = "<p>Hello World!</p>"
+            encoded = html_content.encode('utf-8')
+            self.send_response(200)
+            self.send_header("Content-Type", "text/html")
+            self.send_header("Content-Length", str(len(encoded)))
+            self.end_headers()
+            self.wfile.write(encoded)
 
-
-
-        self.send_error(404)
 
 with socketserver.TCPServer(("", PORT), CustomHandler) as httpd:
     print(f"Mock server running on port {PORT}")
